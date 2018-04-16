@@ -1,0 +1,13 @@
+<svg width="1024" height="1366" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter y="0" x="0" id="f1">
+   <feGaussianBlur stdDeviation="15"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  
+  <rect x="9.48145" y="6.321" id="svg_1" filter="url(#f1)" fill="#FFD700" stroke-width="3" width="992.3951" height="1321.75298"/>
+ </g>
+</svg>
